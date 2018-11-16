@@ -12,7 +12,7 @@ Prototyping refers to the process of developing upon an established idea or as t
 An feasability prototype is usually developed to determine the feasability of various solutions,through exploring the technical constraints, determining whether features are carried forward, discarded or revised.Thus providing insights and removing the possibility of technical issues such as; performance, component compatibility, optimization, etc., occuring or cropping up later in development.
 
 #### Horizontal prototype
-
+Horizontal Prototypes are in essence User Interface prototypes detailing a broad view of an entire system or subsystem, focusing on user interaction, rather than low-level-functionality, for instance accessing a database.
 
 #### Vertical prototype
 
