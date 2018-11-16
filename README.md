@@ -1,7 +1,7 @@
-# Prototyping
+## Prototyping
 
-## Forms of Prototyping
+### Forms of Prototyping
 
-## End User Requirements
+### End User Requirements
 
-## Prototyping Tools
+### Prototyping Tools
