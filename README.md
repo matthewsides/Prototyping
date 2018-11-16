@@ -12,9 +12,14 @@ Prototyping refers to the process of developing upon an established idea or as t
 
 #### Extreme Prototyping
 
+#### Horizontal prototype
+
+#### Vertical prototype
 
 
 ### End User Requirements
+
+
 
 ### Prototyping Tools
 
