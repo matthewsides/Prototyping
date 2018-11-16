@@ -9,6 +9,7 @@ Prototyping refers to the process of developing upon an established idea or as t
 
 #### Feasibility prototype
 
+An feasability prototype is usually developed to determine the feasability of various solutions,through exploring the technical constraints, determining whether features are carried forward, discarded or revised.The use of 
 
 #### Horizontal prototype
 
