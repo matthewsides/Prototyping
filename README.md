@@ -4,18 +4,21 @@ Prototyping refers to the process of developing upon an established idea or as t
 
 ### Forms of Prototyping
 
-#### Throwaway/Rapid Prototyping
+#### Concept prototype
 
-#### Evolutionary Prototyping
 
-#### Incremental Prototyping
+#### Feasibility prototype
 
-#### Extreme Prototyping
 
 #### Horizontal prototype
 
+
 #### Vertical prototype
 
+
+#### Functional storyboard
+
+ 
 
 ### End User Requirements
 
