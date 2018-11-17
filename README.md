@@ -18,6 +18,7 @@ Horizontal Prototypes are in essence User Interface prototypes detailing a broad
 
 #### Vertical prototype
 
+A Vertical prototype in constrast to a Horizontal prototype is a detailed elaboration of a specific function or a sub system in the product and is developed to show the internal features and relationships within the system, as a means of communicating an understanding of the requirement. 
 
 #### Functional storyboard
 
