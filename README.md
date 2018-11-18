@@ -22,7 +22,11 @@ A Vertical prototype in constrast to a Horizontal prototype is a detailed elabor
 #### Functional storyboard
 
 #### Wireframe
- Wireframes are essentially a skelitical prototype detailing the layout using placeholders to represent UI elements and are used early on in the development life cycle to document design and validate information architecture and user flow.
+
+Wireframes are essentially a skeletal prototype detailing the layout using placeholders to represent UI elements and are used early on in the development life cycle to document design and validate information architecture and user flow. However the common misconception is that wireframes are prototypes and whilst a wireframe is to a certain degree a prototype and can be refined and redesigned into an interactive prototype. It is important to note a wireframe that in the aspect of presentation a wireframe is more suitable for static display, whilst the prototype is more dynamic and interactive. Moreover in the aspect of function the prototype represents the final product,simulating user interface interaction and is commonly used for potentional user testing. Wireframes on the otherhand are often used during the early stages of development to show layouts and functions for discussion and feedback.
+
+
+
 
 ### End User Requirements
 
