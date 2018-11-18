@@ -20,6 +20,7 @@ Horizontal Prototypes are in essence User Interface prototypes detailing a broad
 A Vertical prototype in constrast to a Horizontal prototype is a detailed elaboration of a specific function or a sub system in the product and is developed to show the internal features and relationships within the system, as a means of communicating an understanding of the requirement. 
 
 #### Functional storyboard
+A storyboard is a graphical organiser and is used in relation to software development in the early stages of development as an illustration of the product shown in a sequence to represent and show how the software will function, used for reference by the development team.
 
 #### Wireframe
 
