@@ -22,7 +22,7 @@ A Vertical prototype in constrast to a Horizontal prototype is a detailed elabor
 #### Functional storyboard
 
 #### Wireframe
- 
+ Wireframes are essentially a skelitical prototype detailing the layout using placeholders to represent UI elements and are used early on in the development life cycle to document design and validate information architecture and user flow.
 
 ### End User Requirements
 
