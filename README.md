@@ -4,8 +4,12 @@ Prototyping refers to the process of developing upon an established idea or as t
 
 ### Forms of Prototyping
 
-#### Concept prototype
+#### Evolutionary prototype
 
+An evolutionary prototype is a robust prototype that is constantly refined to represent alterations of a product, potentional future concepts or state of the art demonstrations. 
+#### Throwaway Prototype
+
+A throwaway prototype is a cheap, fast prototype that is designed to model an idea or feature. The prototype is commonly used in early phases of design, whilst ideas are still being considered.Though Throwaway prototypes can also be used during late stage design in industries in which products are launched at a low state of refinement.
 
 #### Feasibility prototype
 
