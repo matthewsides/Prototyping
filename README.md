@@ -50,7 +50,7 @@ Regulation Acceptance Testing, also known as Compliance Acceptance Testing, exam
 Contract Acceptance Testing pertains to testing developed software to predefined criteria or specifications agreed upon in a contract. The project team defines the relevant criteria and specifications for acceptance at the same time when the team agrees on the contract itself.
 
 #### Operational Acceptance Testing
-
+Operational Acceptance Testing (OAT) is a non-functional software testing method,used to check the readiness of software and is usually conducted after user acceptance testing and is a final verification before a system is released.This testing typically employs real users accessing and using the system in a live state, with user's providing feedback and verifying whether the software elements display and function properly. 
 
 ### Prototyping Tools
 
