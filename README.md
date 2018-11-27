@@ -43,6 +43,8 @@ Beta testing is performed through utilising a real enviroment in which user's an
 
 #### Black box testing
 
+#### Regulation Testing 
+
 
 ### Prototyping Tools
 
