@@ -29,7 +29,6 @@ A storyboard is a graphical organiser and is used in relation to software develo
 
 Wireframes are essentially a low-fidelity mockup or skeletal prototype detailing the layout using placeholders to represent UI elements and are used early on in the development life cycle to document design and validate information architecture and user flow. However the common misconception is that wireframes are prototypes and whilst a wireframe is to a certain degree a prototype and can be refined and redesigned into an interactive prototype. It is important to note a wireframe, in the aspect of presentation is more suitable for static display, whilst a prototype is more dynamic and interactive. Moreover in the aspect of function a prototype represents the final product,simulating user interface interaction and is commonly used for potentional user testing. Wireframes on the otherhand are often used during the early stages of development to show layouts and functions for discussion and feedback. In conclusion a wireframe is essentially the skeleton of a product, whilst prototypes are more of a visual reprentation and while recent trends have seen the line between wireframes and prototypes distort and merge each serve unique and distinct roles in the design proccess.
 
-
 ### End User Requirements
 
 End user or user acceptance testing  pertains to the phase of rolling out software to user's,in which feedback and data is gathered based on issues and opinionated views formed during the experience and interaction with the product. Essentially end user testing as the name implies is another form of testing the product to see whether it meets set criteria and user requirements/expectations of what the user expects the software to do (was it functioning as expected,etc.).
@@ -44,6 +43,8 @@ Beta testing is performed through utilising a real enviroment in which user's an
 Black Box Testing is often categorized as functional testing, but can, to some extent, be seen as a type of User Acceptance Testing.It’s a method of software testing which analyzes certain functionalities without letting testers see the internal code structure.Throughout the test the user is only aware of the softwares purpose not how it should function.
 
 #### Regulation Testing 
+Regulation Acceptance Testing, also known as Compliance Acceptance Testing, examines whether the software complies with the regulations. This includes governmental and legal regulations.In relation to the games industry each platform i.e. XB1,Nintendo and PS4 each have there own regulations that need to be met and there own group of testers that will test the game based on said regulations, the reason for this is to ensure functionality,ease of use and consistency across all titles.
+
 
 #### Contract Acceptance Testing
 Contract Acceptance Testing pertains to testing developed software to predefined criteria or specifications agreed upon in a contract. The project team defines the relevant criteria and specifications for acceptance at the same time when the team agrees on the contract itself.
