@@ -45,6 +45,11 @@ Beta testing is performed through utilising a real enviroment in which user's an
 
 #### Regulation Testing 
 
+#### Contract Acceptance Testing
+Contract Acceptance Testing pertains to testing developed software to predefined criteria or specifications agreed upon in a contract. The project team defines the relevant criteria and specifications for acceptance at the same time when the team agrees on the contract itself.
+
+#### Operational Acceptance Testing
+
 
 ### Prototyping Tools
 
