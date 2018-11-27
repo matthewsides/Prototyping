@@ -18,7 +18,6 @@ An feasability prototype is usually developed to determine the feasability of va
 #### Horizontal prototype
 Horizontal Prototypes are in essence User Interface prototypes detailing a broad view of an entire system or subsystem, focusing on user interaction and relationships, rather than low-level-functionality.The Horizontal Prototype is developed to; define project scope and demonstrate the external features of the system (e.g., windows, menu bars, and reports, visual elements), as a means of communicating an understanding of the requirement. 
 
-
 #### Vertical prototype
 
 A Vertical prototype in constrast to a Horizontal prototype is a detailed elaboration of a specific function or a sub system in the product and is developed to show the internal features and relationships within the system, as a means of communicating an understanding of the requirement. 
