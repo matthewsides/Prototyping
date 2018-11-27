@@ -42,6 +42,7 @@ Alpha testing is a type of acceptance testing; performed during project developm
 Beta testing is performed through utilising a real enviroment in which user's and the public use the software as intended and go through the steps as they usually would with the exception of reporting any issues they might have encountered during this proccess.This method allows developers to garner feedback through the perspective of a user, fix issues and use said feeback to mould the software to better fit the end user requirements or what and how the user expects the software to look and function.
 
 #### Black box testing
+Black Box Testing is often categorized as functional testing, but can, to some extent, be seen as a type of User Acceptance Testing.It’s a method of software testing which analyzes certain functionalities without letting testers see the internal code structure.Throughout the test the user is only aware of the softwares purpose not how it should function.
 
 #### Regulation Testing 
 
