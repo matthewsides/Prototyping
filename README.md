@@ -35,13 +35,13 @@ Wireframes are essentially a low-fidelity mockup or skeletal prototype detailing
 
 End user or user acceptance testing  pertains to the phase of rolling out software to user's,in which feedback and data is gathered based on issues and opinionated views formed during the experience and interaction with the product. Essentially end user testing as the name implies is another form of testing the product to see whether it meets set criteria and user requirements/expectations of what the user expects the software to do (was it functioning as expected,etc.).
 
-Beta & Alpha testing
+#### Beta & Alpha testing
 
 Alpha testing is a type of acceptance testing; performed during project development in orderto identify all possible issues/bugs before releasing the product to users. The primary focus of this testing is to simulate real users by using blackbox and whitebox techniques. The aim is to carry out the tasks that a typical user might perform.
 
-Beta testing is performed through utilising a real enviroment in which user's and the public use the software as intended and go through the steps as they usually would with the exception of reporting any issues they might have encountered during this proccess.This method allows developers to garner feedback through the perspective of a user, fix issues and use said feeback to mould the software to better fit the user requirements or what a user excepts out of the software.
+Beta testing is performed through utilising a real enviroment in which user's and the public use the software as intended and go through the steps as they usually would with the exception of reporting any issues they might have encountered during this proccess.This method allows developers to garner feedback through the perspective of a user, fix issues and use said feeback to mould the software to better fit the end user requirements or what and how the user expects the software to look and function.
 
-Black box testing
+#### Black box testing
 
 
 ### Prototyping Tools
