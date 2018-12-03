@@ -56,8 +56,12 @@ Operational Acceptance Testing (OAT) is a non-functional software testing method
 
 
 #### Low fidelity prototype & tools
+Low-fidelity (lo-fi) prototyping is a quick and easy way to translate high-level design concepts into tangible and testable artifacts.The basic characteristics of low-fidelity prototyping: Visual design, Content, Interactivity.
 
-The benefits of using low fidelity prototypes is that major problems are detected and solved in the early stage of development cycle;being easier to build and cost less than other alternatives.Whilst low fidelity prototypes are easy to iterate and also give feedback to focus on high-level concepts rather than details
+The benefits of using low fidelity prototypes is that major problems are detected and solved in the early stage of development cycle, being easier to build and cost less than other alternatives.Whilst low fidelity prototypes are easy to iterate and also give feedback to focus on high-level concepts rather than details
+
+ • Paper Based:Pen and paper
+
 
 
 
