@@ -55,8 +55,11 @@ Operational Acceptance Testing (OAT) is a non-functional software testing method
 ### Prototyping Tools
 
 
-Low fidelity tools
+#### Low fidelity prototype & tools
+
+The benefits of using low fidelity prototypes is that major problems are detected and solved in the early stage of development cycle;being easier to build and cost less than other alternatives.Whilst low fidelity prototypes are easy to iterate and also give feedback to focus on high-level concepts rather than details
 
 
-High Fidelity Tools
+
+#### High Fidelity Tools
 
