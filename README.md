@@ -60,8 +60,11 @@ Low-fidelity prototyping[2] is a quick and easy way to translate high-level desi
 
 The benefits of using low fidelity prototypes is that major problems are detected and solved in the early stage of development cycle, being easier to build and cost less than other alternatives.Whilst low fidelity prototypes are easy to iterate and also give feedback to focus on high-level concepts rather than details
 
- • Paper Based:Pen and paper
- • MockPlus:
+ • Paper Based:Pen and paper a basic tool that allows quick illustration of ideas, facilitating the internal discussion between group
+ members.
+ 
+ • MockPlus: Mockplus as a low-fidelity prototyping tool has garnered much attention in recent years. The interface, components, and icons of this software are based on gray color. Through drawing a low fidelity with Mockplus,it is possible to get a low fidelity prototype without adding UI design and complex interaction. Mockplus can also facilitate medium fidelity prototypes, with the inclusion of rich custom properties and powerful interactive features and is regarded as an optimal software to use for beginners. 
+ 
  • Balsamiq mockups:
 
 
