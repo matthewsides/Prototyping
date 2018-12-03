@@ -68,11 +68,14 @@ The benefits of using low fidelity prototypes is that major problems are detecte
  • Balsamiq mockups: Balsamiq is a hand-painted low-fidelity prototyping tool.The benefits of Balsamiq as a tool is evident through the fact it can be seen as a low fidelity prototype.Moreover Balsamiq includes a built-in hand-painted UI library that cn be used as placeholders for the original UI.However the downside of Balsamiq is that it lacks support for basic interactions, which depending on the situation is not convenient.
 
 #### High Fidelity Tools
-High-fidelity prototyping[3] refers to a computer based interactive representation of a product in its closest resemblance to the final design in terms of details and functionality. 
+High-fidelity prototyping[3] refers to a computer based interactive representation of a product in its closest resemblance to the final design in terms of details and functionality. High fidelity wrieframes are often drafted near the end of the design process to communicate design decisions to the development team prior to coding the final product.
 
 ### References-
-[1] mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
+[1] Mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
 
 [2] Nick Babich (11-29-2017). theblog.adobe [online]. Available from: <https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/>. [Accessed 03/12/2018].
 
-[3]Eleonora Ibragimova (28/12/16). blog.prototypr.io [online]. Available from: <https://blog.prototypr.io/high-fidelity-prototyping-what-when-why-and-how-f5bbde6a7fd4>. [Accessed 03/12/2018].
+[3] Eleonora Ibragimova (28/12/16). blog.prototypr.io [online]. Available from: <https://blog.prototypr.io/high-fidelity-prototyping-what-when-why-and-how-f5bbde6a7fd4>. [Accessed 03/12/2018].
+
+[4] EMILY GRACE ADISESHIAH (22/12/17). justinmind [online]. Available from: <https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/>. [Accessed 03/12/2018].
+
