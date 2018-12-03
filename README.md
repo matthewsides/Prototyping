@@ -68,7 +68,7 @@ The benefits of using low fidelity prototypes is that major problems are detecte
  • Balsamiq mockups: Balsamiq is a hand-painted low-fidelity prototyping tool.The benefits of Balsamiq as a tool is evident through the fact it can be seen as a low fidelity prototype.Moreover Balsamiq includes a built-in hand-painted UI library that cn be used as placeholders for the original UI.However the downside of Balsamiq is that it lacks support for basic interactions, which depending on the situation is not convenient.
 
 #### High Fidelity Tools
-
+High-fidelity prototyping[3] refers to a computer based interactive representation of a product in its closest resemblance to the final design in terms of details and functionality. 
 
 ### References-
 [1] mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
