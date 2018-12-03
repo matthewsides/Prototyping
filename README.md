@@ -74,3 +74,5 @@ The benefits of using low fidelity prototypes is that major problems are detecte
 [1] mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
 
 [2] Nick Babich (11-29-2017). theblog.adobe [online]. Available from: <https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/>. [Accessed 03/12/2018].
+
+[3]Eleonora Ibragimova (28/12/16). blog.prototypr.io [online]. Available from: <https://blog.prototypr.io/high-fidelity-prototyping-what-when-why-and-how-f5bbde6a7fd4>. [Accessed 03/12/2018].
