@@ -72,6 +72,28 @@ The benefits of using low fidelity prototypes is that major problems are detecte
 #### High Fidelity Tools
 High-fidelity prototyping[3] refers to a computer based interactive representation of a product in its closest resemblance to the final design in terms of details and functionality. High fidelity wrieframes are often drafted near the end of the design process to communicate design decisions to the development team prior to coding the final product.
 
+
+### Prisma 
+End user's can be segregated into two catagorys; Contemporary and those whom are not. Contemporary refering to those whom follow the modern style and are generally more experienced in this genre. Using less broader terms end  users can also be delegated into three types; Novices, intermittent and expert. 
+
+
+Contemporary End users,
+
+The demographic inwhich Prisma is aiming to satiate 
+
+End user's,disregarding age and gender demographics other then can be segregated into three catagorys; Novice, intermittent and expert.
+
+Users can however, be classified in any other way that is appropriate to the system being built.
+
+#### End User categorisations 
+
+
+
+Contemporary end user's shall
+
+End User's can be catagorised into three types; Contemporary 
+
+
 ### References-
 [1] Mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
 
