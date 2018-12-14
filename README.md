@@ -74,6 +74,14 @@ High-fidelity prototyping[3] refers to a computer based interactive representati
 
 
 ### Prisma 
+End user's can be segregated into two catagorys; Contemporary and those whom are not. Contemporary refering to those whom follow the modern style and are generally more experienced in this genre. Further delving into the term contemporary based on the following of modern design, contemporary users can be put into two types; intermittent and expert user's with the third novice falling out of the range as the term novice is usually used to describe a user new to the genre or technology. In relation to 'Prisma' a personal project the target audience should if properly implemented cover those under the cotemporary catagory though not limited to said catagory and will provide support basis for novice users 
+
+In relation to the Project 'Prisma' 
+
+Prisma utilised user cube to classify end users (Cotterman and Kumar 1989) based on the development, operation,
+and control dimensions of end user computing (EUC). Using this cube, users can be classified into eight
+distinct groups.
+
 
 End User's in relation to the project 'Prisma' 
 
@@ -82,15 +90,8 @@ Flannery (1983) more than two decades ago. This scheme is inadequate to classify
 since it is based mainly on their knowledge and ignores other crucial dimensions such as control.  
 
 
-End user's can be segregated into two catagorys; Contemporary and those whom are not. Contemporary refering to those whom follow the modern style and are generally more experienced in this genre. Further delving into the term contemporary based on the following of modern design, contemporary users can be put into two types; intermittent and expert user's with the third novice falling out of the range as the term novice is usually used to describe a user new to the genre or technology. Novice 
-
-In relation to the Project 'Prisma' 
-
-Prisma utilised user cube to classify end users (Cotterman and Kumar 1989) based on the development, operation,
-and control dimensions of end user computing (EUC). Using this cube, users can be classified into eight
-distinct groups.
-
 Prisma in this regard is set to cater to the 
+
 
 If a less broader term  
 
