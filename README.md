@@ -65,7 +65,7 @@ The benefits of using low fidelity prototypes is that major problems are detecte
  
  • MockPlus: Mockplus as a low-fidelity prototyping tool has garnered much attention in recent years. The interface, components, and icons of this software are based on gray color. Through drawing a low fidelity with Mockplus,it is possible to get a low fidelity prototype without adding UI design and complex interaction. Mockplus can also facilitate medium fidelity prototypes, with the inclusion of rich custom properties and powerful interactive features and is regarded as an optimal software to use for beginners. 
  
- • Balsamiq mockups: Balsamiq is a hand-painted low-fidelity prototyping tool.The benefits of Balsamiq as a tool is evident through the fact it can be seen as a low fidelity prototype.Moreover Balsamiq includes a built-in hand-painted UI library that cn be used as placeholders for the original UI.However the downside of Balsamiq is that it lacks support for basic interactions, which depending on the situation is not convenient.
+ • Balsamiq mockups: Balsamiq is a hand-painted low-fidelity prototyping tool.The benefits of Balsamiq as a tool is evident through the fact it can be seen as a low fidelity prototype.Moreover Balsamiq includes a built-in hand-painted UI library that can be used as placeholders for the original UI.However the downside of Balsamiq is that it lacks support for basic interactions, which depending on the situation is not convenient.
  
 ####  Basic Prototyping & Collaboration
 
