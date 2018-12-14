@@ -74,7 +74,11 @@ High-fidelity prototyping[3] refers to a computer based interactive representati
 
 
 ### Prisma 
-End user's can be segregated into two catagorys; Contemporary and those whom are not. Contemporary refering to those whom follow the modern style and are generally more experienced in this genre. Further delving into the term contemporary based on the following of modern design, contemporary users can be put into two types; intermittent and expert user's with the third novice falling out of the range as the term novice is usually used to describe a user new to the genre or technology. In relation to 'Prisma' a personal project the target audience should if properly implemented cover the demographic of whom support the third person franchise 
+End user's can be segregated into two catagorys; Contemporary and those whom are not. Contemporary refering to those whom follow the modern style and are generally more experienced in this genre. Further delving into the term contemporary based on the following of modern design, contemporary users can be put into two types; intermittent and expert user's with the third novice falling out of the range as the term novice is usually used to describe a user new to the genre or technology.
+
+In relation to 'Prisma' a personal project, the supported end users will primarly be contemporary though not limited as novice users shall be eased into the game through turtorials 
+
+the target audience should if properly implemented cover the demographic of whom support the third person franchise 
 
 
 those under the cotemporary catagory though not limited to said catagory and will provide support basis for novice users 
