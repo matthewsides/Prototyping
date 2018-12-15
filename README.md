@@ -78,10 +78,6 @@ High-fidelity prototyping[3] refers to a computer based interactive representati
 #### End User categorisation
 End user's can be segregated into two catagorys; Contemporary and those whom are not. Contemporary refering to those whom follow the modern style and are generally more experienced in this genre. Further delving into the term contemporary based on the following of modern design, contemporary users can be put into two types; intermittent and expert user's with the third novice falling out of the range as the term novice is usually used to describe a user new to the genre or technology.Theses catagorys provide the basis on which the application 'Prisma' (a project in development) will be formed upon as the application is aiming to meet the expectations of those under the cotemporary catagory, whom support the third person action franchise. Though the game is not restricted to a contemporary demographic as support basis for novice users will be provided (turtorials). In addition concerning the formulation of prototypes and testing novice user's tend to provide information concerning bugs the best as they still are not aware as to how the game should function thus, should provide the most optimal and raw results, giving input on the application that may not conform to the norm. Though intermittent and expert user's can also provide information benifical to the project as this demographic should already know what to expect from a game in this genre, as stated novice user's tend to stray away from what is deemed the norm demonstrating user behaviours and user ease of use (ease of use refering to how hard the application is to  navigate,play,etc.).
 
-#### End User Classification
-End user classification refers to the catagorisation as covered above,the most common end user classification scheme is the one proposed by Rockart and Flannery in 1983.However based on current standards this scheme is inadequate to classify contemporary end users
-since it is based mainly on their knowledge and ignores other crucial dimensions such as control,etc. Cotterman and Kumar (1989) proposed a user cube to classify end users based on the development, operation,and control dimensions of end user computing (EUC). 
-
 #### Behavioural Models
 
 
@@ -147,6 +143,10 @@ End user's,disregarding age and gender demographics other then can be segregated
 
 Users can however, be classified in any other way that is appropriate to the system being built.
 
+
+#### End User Classification
+End user classification refers to the catagorisation as covered above,the most common end user classification scheme is the one proposed by Rockart and Flannery in 1983.However based on current standards this scheme is inadequate to classify contemporary end users
+since it is based mainly on their knowledge and ignores other crucial dimensions such as control,etc. Cotterman and Kumar (1989) proposed a user cube to classify end users based on the development, operation,and control dimensions of end user computing (EUC). 
 
 #### End User Classification
 End user classification refers to the catagorisation as covered above,the most common end user classification scheme is the one proposed by Rockart and Flannery in 1983.However based on current standards this scheme is inadequate to classify contemporary end users
