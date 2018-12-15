@@ -84,6 +84,8 @@ End user's can be segregated into two catagorys; Contemporary and those whom are
 #### Behavioural Models
 
 
+#### Prisma metholodgy and test plan
+
 
 In relation to 'Prisma' a personal project, the supported end users will primarly be contemporary though not limited as novice users shall be eased into the game through turtorials 
 
