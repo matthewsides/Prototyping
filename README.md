@@ -88,14 +88,9 @@ since it is based mainly on their knowledge and ignores other crucial dimensions
 #### Prisma metholodgy and test plan
 This section covers the audience for the project 'Prisma' along with the metholodgy set to be used for the development of multiple prototypes and the core application. Though not limited to the scope, Prismas target audience is set to extend primarly to players whom enjoy third person action games. Tutorial like elements and features will also be implemented in order to ensure ease of use for players new to the genre. 
 
+Furthermore the prototyping methodlogy that the development will be based around is Throw-away’ or ‘Rapid’. Throw-away’ or ‘Rapid’ , which pertains to developing a small part of a system, then giving it to the end user to try out and evaluate. The user provides feedback which can quickly be incorporated into the development of the main system. The prototype is then discarded or thrown away. Rapid/Throwaway prototyping essentially helps to ascertain a complete set of user requirements.
 
-
-
-
-Prisma's target   Throw-away’ or ‘Rapid’ prototyping pertains to developing a small part of a system, then giving it to the end user to try out and evaluate. The user provides feedback which can quickly be incorporated into the development of the main system. The prototype is then discarded or thrown away. Rapid/Throwaway prototyping essentially helps to ascertain a complete set of user requirements.
-
-The advantages of utilising rapid prototyping relate to involving customers at an early stage of development as a complete set of customer requirements can be obtained through the feedback, thus also better meeting the final product's need. Though the disadvantages of rapid prototyping are that project management is ignored and poorly operating prototypes that don't meet quality assurance standards are delivered to consumers.
-
+More advantages of utilising rapid prototyping relate to involving customers at an early stage of development as a complete set of customer requirements can be obtained through the feedback, thus also better meeting the final product's need. Though the disadvantages of rapid prototyping are that project management is ignored and poorly operating prototypes that don't meet quality assurance standards are delivered to consumers.
 
 #### Prototyping tools
 
