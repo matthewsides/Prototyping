@@ -80,7 +80,7 @@ End user's can be segregated into two catagorys; Contemporary and those whom are
 
 #### End User Classification
 End user classification refers to the catagorisation as covered above,the most common end user classification scheme is the one proposed by Rockart and Flannery in 1983.However based on current standards this scheme is inadequate to classify contemporary end users
-since it is based mainly on their knowledge and ignores other crucial dimensions such as control. Cotterman and Kumar (1989) proposed a user cube to classify end users based on the development, operation,and control dimensions of end user computing (EUC). 
+since it is based mainly on their knowledge and ignores other crucial dimensions such as control,etc. Cotterman and Kumar (1989) proposed a user cube to classify end users based on the development, operation,and control dimensions of end user computing (EUC). 
 
 #### Behavioural Models
 
