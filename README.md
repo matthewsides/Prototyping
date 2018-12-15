@@ -91,9 +91,14 @@ since it is based mainly on their knowledge and ignores other crucial dimensions
 
 #### Prototyping tools
 
+#### Unreal
+
+
+#### Unity
+
 
 #### Conclusion
-The engine in which will be used for creating prototypes of 'Prisma' will be Unity, this is primarily due to unitys better and intuitive interface to follow and learn from. In addition to the learning material avaliable in contrast to Unreals lack off turtorials and sophisticated interface and doesn’t facilitate ease of use. Although Unreal offers more in terms of cross platform compatability and prioritises graphics due to the nature of the project, cross platform compatability is not neccassary as the application is set to run on PC. In continuation to the prior point graphics are also not a priority as all that is currently being developed are prototypes, whilst unity's recent updates have lessened the gap between the softwares capabilitys in regards to graphics.
+The engine in which will be used for creating prototypes of 'Prisma' will be Unity, this is primarily due to Unitys better and intuitive interface to follow and learn from. In addition to the learning material available in contrast to Unreals lack off tutorials and sophisticated interface and doesn’t facilitate ease of use. Although Unreal offers more in terms of cross platform compatibility and prioritises graphics due to the nature of the project, cross platform compatibility is not necessary as the application is set to run on PC. In continuation to the prior point graphics are also not a priority as all that is currently being developed are prototypes, whilst unity's recent updates have lessened the gap between the software's capability's in regard to graphics.
 
 
 is better suited in relation to compatability and cross platform 
