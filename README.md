@@ -107,10 +107,10 @@ The following prototypes include a basic camera system,using animations to move 
 
 | V1            |User          |Result        |
 | ------------- |------------- |------------- |
-|               | Luke Bruni   |              |
-|               | Luke Shead   |              |
-|               | Mark Biswell |              |
-|               | Joe Williams |              |
+|               | Luke Bruni   | The camera felt sensitive and the object seemed to follow the camera ruining immersion at times and looking weired|
+|               | Luke Shead   | The camera functions properly and I was impressed by how smooth it looked, however upon moving the character it appeared that the camera was unable to keep up.|
+|               | Mark Biswell | Camera input felt too sensitive, while the object also moved to where the camera was pointing appearing unrealistic.|
+|               | Joe Williams | Camera felt smooth, however the 360 turning could be toned down and is slightly annoying when trying to move the player.|
 
 
 | V2            |User          |Result        |
