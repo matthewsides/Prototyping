@@ -93,8 +93,8 @@ The Use case model is a user model ,that involves use case diagrams to depict th
 
 Activity diagrams are diagrams used to model system behaviours, in addition to detailing the relationships between the behaviours in the overall flow of the system (that is, dynamic element interactions). Essentially the diagram maps out the possible paths that can be taken along with the relationship between said objects. In relation to  end user's the activity diagram can show the possible paths and also the choices a user may pick during playtime. [6]
 
-#### 
-
+#### Data Driven
+Data-driven models entail illustrating the sequence of actions involved in gathering input and generating the associated output.This method or model can essentially show the structure of a program and data required to be given by a user, showcasing the possible outcomes and expected user behaviour (input) and system behaviour (output). [7] [8]
 
 #### Prisma metholodgy and test plan
 
