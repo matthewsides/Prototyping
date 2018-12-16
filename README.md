@@ -99,6 +99,9 @@ Unity is a cross-platform game engine developed by Unity Technologies, used prim
 #### Conclusion
 The engine in which will be used for creating prototypes of 'Prisma' will be Unity, this is primarily due to Unitys better and intuitive interface to follow and learn from. In addition to the learning material available in contrast to Unreals lack off tutorials and sophisticated interface and doesn’t facilitate ease of use. Although Unreal offers more in terms of cross platform compatibility and prioritises graphics due to the nature of the project, cross platform compatibility is not necessary as the application is set to run on PC. In continuation to the prior point Unreal others offers advanced graphics capabilities, such as complex partition system and dynamic lighting.In comparision Unity 5 is capable of producing graphics heavy environments, though it is also important to note unitys new iteration (2018) boasts features that rival if not eclispse Unreal in regards to graphics and lighting.Furthermore based on the familiarity with the software and ease of use unity was chosen.  
 
+### Prisma Controller and Camera demo 
+
+
 
 ### References-
 [1] Mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
