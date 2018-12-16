@@ -107,11 +107,12 @@ The following prototypes include a basic camera system,using animations to move 
 
 | V1            |User          |Result        |
 | ------------- |------------- |------------- |
-|               | Luke Bruni   | The camera felt sensitive and the object seemed to follow the camera ruining immersion at times and looking weired|
+|               | Luke Bruni   | The camera felt sensitive and the object seemed to follow the camera ruining immersion at times and looking weird.|
 |               | Luke Shead   | The camera functions properly and I was impressed by how smooth it looked, however upon moving the character it appeared that the camera was unable to keep up.|
 |               | Mark Biswell | Camera input felt too sensitive, while the object also moved to where the camera was pointing appearing unrealistic.|
 |               | Joe Williams | Camera felt smooth, however the 360 turning could be toned down and is slightly annoying when trying to move the player.|
 
+Through anaylising the feedback gathered it is clear that there is an issue with the player object and camera 
 
 | V2            |User          |Result        |
 | ------------- |------------- |------------- |
@@ -120,6 +121,7 @@ The following prototypes include a basic camera system,using animations to move 
 |               | Mark Biswell |              |
 |               | Joe Williams |              |
 
+The temporary fix for the player models axis changing and following the camera point was to add a clamp to the Y axis temporary and as gathered from the feedback given about the second iteration it has seemed to have fixed the issue for now
 ### References-
 [1] Mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
 
