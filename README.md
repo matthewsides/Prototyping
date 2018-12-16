@@ -102,9 +102,10 @@ The engine in which will be used for creating prototypes of 'Prisma' will be Uni
 ### Prisma Camera demo
 The following prototypes include a basic camera system, using animations to move the player in order to test how the camera functions. Although crude, the purpose of the prototypes are to merely test out the camera and how it reacts to object movement,hence why animations were used for the movement rather than a mesh of code and animations.In addition to unitys rigidbody and capsule collider in order to ensure the object does not fall through the floor and to simulate physics. Moreover as theses prototypes explore more of the functional side rather than the asthetics,the canvas consists of a basic untextured plane and a textured playermodel, excluding the need for other objects as this is merely a camera test. 
 
-|-------|-------|     
-|User   |Result |
-|-------|-------|  
+| V1            |User          |Result        |
+| ------------- |------------- |------------- |
+|               |              |              |
+|               |              |              |
 
 
 ### References-
