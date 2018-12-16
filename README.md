@@ -83,7 +83,7 @@ End user's can be segregated into two catagorys; Contemporary and those whom are
 
 #### Behavioural Models
 
-Behavioral modeling is a description of  how a proposed  system will interact with actors and other entitles which are out of the boundarys of the system. The first part of a system behavioral model is requirements gathering.  
+Behavioral modeling is a description of  how a proposed  system will interact with actors and other entitles which are out of the boundarys of the system. The first part of a system behavioral model is requirements gathering. [7]
 
 #### Use Case model
 
