@@ -130,7 +130,7 @@ Through analysing the feedback given on this prototype it is clear to see that t
 
 ### Prototype Download
 
-The final camera demo prototype can be found and downloaded inside this GitHub repository. The file is called "Prisma" and is a ZIP file whichs means to access the content upon downlaoding it requires an extraction. Note: this is a demo build and there is currently no way to close the application without using certain methods therefore it is reccomended that caution is taken. This version is also no where near close to the finished application and should not be taken as reference for it, whilst the unity splash screen and text shown on the bottom right corner will also be removed in the finished version. Otherwise enjopy the demo.
+The final camera demo prototype can be downloaded inside this GitHub repository. The file is called "Prisma" and is a ZIP file whichs means to access the content upon downlaoding it requires an extraction. Note: this is a demo build and there is currently no way to close the application without using certain methods therefore it is reccomended that caution is taken. This version is also no where near close to the finished application and should not be taken as reference for it, whilst the unity splash screen and text shown on the bottom right corner will also be removed in the finished version. Otherwise enjopy the demo.
 
 
 ### References-
