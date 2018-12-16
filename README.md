@@ -91,73 +91,13 @@ More advantages of utilising rapid prototyping relate to involving customers at 
 #### Prototyping tools
 
 #### Unreal
-
+Unreal engine is a complete suite of tools used primarily for the development of applications though can also be used for a variety of other reasons. The engine is heavily focused on design and detail with its fourth installment or update being released on September 4, 2014, although a stable release wasnt avaliable until recently on November 7, 2018. This engine allows for development without the need to code through the use of Blueprint visual scripting which is node-based enabling developers to create prototypes quickly.The benefits of Blue print visual scripting can be seen through the fact that developers can create full games using only Blueprint.Furthermore unreal is a next-gen game engine that offers advanced graphics capabilities, such as complex partition system and dynamic lighting.
 
 #### Unity
 
 
 #### Conclusion
-The engine in which will be used for creating prototypes of 'Prisma' will be Unity, this is primarily due to Unitys better and intuitive interface to follow and learn from. In addition to the learning material available in contrast to Unreals lack off tutorials and sophisticated interface and doesn’t facilitate ease of use. Although Unreal offers more in terms of cross platform compatibility and prioritises graphics due to the nature of the project, cross platform compatibility is not necessary as the application is set to run on PC. In continuation to the prior point Unreal others offers advanced graphics capabilities, such as complex partition system and dynamic lighting. In comaprision Unity 5 is capable of producing graphics heavy environments. However based on the famialirty of the software and ease of use unity will be used.
-
-
-
-
-
-
-
-
-In relation to 'Prisma' a personal project, the supported end users will primarly be contemporary though not limited as novice users shall be eased into the game through turtorials 
-
-the target audience should if properly implemented cover the demographic of whom support the third person franchise 
-
-
-those under the cotemporary catagory though not limited to said catagory and will provide support basis for novice users 
-
-In relation to the Project 'Prisma' 
-
-Prisma utilised user cube to classify end users (Cotterman and Kumar 1989) based on the development, operation,
-and control dimensions of end user computing (EUC). Using this cube, users can be classified into eight
-distinct groups.
-
-
-End User's in relation to the project 'Prisma' 
-
-end user classification scheme proposed by Rockart and
-Flannery (1983) more than two decades ago. This scheme is inadequate to classify contemporary end users
-since it is based mainly on their knowledge and ignores other crucial dimensions such as control.  
-
-
-Prisma in this regard is set to cater to the 
-
-
-If a less broader term  
-
-Further using less broader terms end  users can also be delegated into three types; Novices, intermittent and expert. 
-
-
-Contemporary End users,
-
-The demographic inwhich Prisma is aiming to satiate 
-
-End user's,disregarding age and gender demographics other then can be segregated into three catagorys; Novice, intermittent and expert.
-
-Users can however, be classified in any other way that is appropriate to the system being built.
-
-
-#### End User Classification
-End user classification refers to the catagorisation as covered above,the most common end user classification scheme is the one proposed by Rockart and Flannery in 1983.However based on current standards this scheme is inadequate to classify contemporary end users
-since it is based mainly on their knowledge and ignores other crucial dimensions such as control,etc. Cotterman and Kumar (1989) proposed a user cube to classify end users based on the development, operation,and control dimensions of end user computing (EUC). 
-
-#### End User Classification
-End user classification refers to the catagorisation as covered above,the most common end user classification scheme is the one proposed by Rockart and Flannery in 1983.However based on current standards this scheme is inadequate to classify contemporary end users
-since it is based mainly on their knowledge and ignores other crucial dimensions such as control,etc. Cotterman and Kumar (1989) proposed a user cube to classify end users based on the development, operation,and control dimensions of end user computing (EUC). 
-
-#### Behavioural Models
-
-
-Contemporary end user's shall
-
-End User's can be catagorised into three types; Contemporary 
+The engine in which will be used for creating prototypes of 'Prisma' will be Unity, this is primarily due to Unitys better and intuitive interface to follow and learn from. In addition to the learning material available in contrast to Unreals lack off tutorials and sophisticated interface and doesn’t facilitate ease of use. Although Unreal offers more in terms of cross platform compatibility and prioritises graphics due to the nature of the project, cross platform compatibility is not necessary as the application is set to run on PC. In continuation to the prior point Unreal others offers advanced graphics capabilities, such as complex partition system and dynamic lighting. In comaprision Unity 5 is capable of producing graphics heavy environments, though it is also important to note unitys new iteration (2018) boasts features that rival if not eclispse Unreal in regards to graphics and lighting. However based on the famialirty of the software and ease of use unity will be used.
 
 
 ### References-
