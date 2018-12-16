@@ -121,7 +121,8 @@ Through anaylising the feedback gathered it is clear that there is an issue with
 |               | Mark Biswell |              |
 |               | Joe Williams |              |
 
-The temporary fix for the player models axis changing and following the camera point was to add a clamp to the Y axis temporary and as gathered from the feedback given about the second iteration it has seemed to have fixed the issue for now
+The temporary fix for the player models axis changing and following the camera point was to add a clamp to the Y axis temporary and as gathered from the feedback given about the second iteration it has seemed to have fixed the issue for now. Though this fix can only be short term otherwise it will impeed on the players ability to look up. The clamp for the X axis was also changed in order to facilitate the feedback gathered from Joe williams whom stated originally that "the 360 turning could be toned down", through clamping the X axis it is now easier to navigate where the user wishes the player to look and go.Moreover the sensitivity was altered using the 'input sensitivity variable' and 'camera speed' to slow down the rate in which the camera turned.
+
 ### References-
 [1] Mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
 
