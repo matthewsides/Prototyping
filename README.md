@@ -80,7 +80,8 @@ End user's can be segregated into two catagorys; Contemporary and those whom are
 
 #### Behavioural Models
 
-The Use case model is a user model ,that involves use case diagrams to depict the functionality of a system, using actors to represent a user in order to showcase user interaction and imply what different users may do when faced with a problem and given a solution.
+#### Use Case model
+The Use case model is a user model ,that involves use case diagrams to depict the functionality of a system, using actors to represent a user in order to showcase user interaction and imply what different users may do when faced with a problem and given a solution.In relation to a scenario of a game, this would be what the user does when given configuration options (what options would they choose?) or given a task to complete, would the user exhibit the expected behaviour  of complting the task or veer of course, etc.[5]
 
 
 
