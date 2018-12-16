@@ -56,6 +56,7 @@ Operational Acceptance Testing (OAT) is a non-functional software testing method
 
 
 #### Low fidelity prototype & tools
+
 Low-fidelity prototyping[2] (wireframes are low fidelity prototypes) is a quick and easy way to translate high-level design concepts into tangible and testable artifacts.The basic characteristics of low-fidelity prototyping: Visual design, Content, Interactivity.
 
 The benefits of using low fidelity prototypes is that major problems are detected and solved in the early stage of development cycle, being easier to build and cost less than other alternatives.Whilst low fidelity prototypes are easy to iterate and also give feedback to focus on high-level concepts rather than details
@@ -70,22 +71,33 @@ The benefits of using low fidelity prototypes is that major problems are detecte
 ####  Basic Prototyping & Collaboration
 
 #### High Fidelity Tools
+
 High-fidelity prototyping[3] refers to a computer based interactive representation of a product in its closest resemblance to the final design in terms of details and functionality. High fidelity wrieframes are often drafted near the end of the design process to communicate design decisions to the development team prior to coding the final product.
 
 
 ### Prisma 
 
 #### End User categorisation/classification
+
 End user's can be segregated into two catagorys; Contemporary and those whom are not. Contemporary refering to those whom follow the modern style and are generally more experienced in this genre. Further delving into the term contemporary based on the following of modern design, contemporary users can be put into two types; intermittent and expert user's with the third novice falling out of the range as the term novice is usually used to describe a user new to the genre or technology.Theses catagorys provide the basis on which the application 'Prisma' (a project in development) will be formed upon as the application is aiming to meet the expectations of those under the cotemporary catagory, whom support the third person action franchise. Though the game is not restricted to a contemporary demographic as support basis for novice users will be provided (turtorials). In addition concerning the formulation of prototypes and testing novice user's tend to provide information concerning bugs the best as they still are not aware as to how the game should function thus, should provide the most optimal and raw results, giving input on the application that may not conform to the norm. Though intermittent and expert user's can also provide information benifical to the project as this demographic should already know what to expect from a game in this genre, as stated novice user's tend to stray away from what is deemed the norm demonstrating user behaviours and user ease of use (ease of use refering to how hard the application is to  navigate,play,etc.).
 
 #### Behavioural Models
 
-#### Use Case model
-The Use case model is a user model ,that involves use case diagrams to depict the functionality of a system, using actors to represent a user in order to showcase user interaction and imply what different users may do when faced with a problem and given a solution.In relation to a scenario of a game, this would be what the user does when given configuration options (what options would they choose?) or given a task to complete, would the user exhibit the expected behaviour  of complting the task or veer of course, etc.[5]
+Behavioral modeling is a description of  how a proposed  system will interact with actors and other entitles which are out of the boundarys of the system. The first part of a system behavioral model is requirements gathering.  
 
+#### Use Case model
+
+The Use case model is a user model ,that involves use case diagrams to depict the functionality of a system, using actors to represent a user in order to showcase user interaction and imply what different users may do when faced with a problem and given a solution.In relation to a scenario of a game, this would be what the user does when given configuration options (what options would they choose?) or given a task to complete, would the user exhibit the expected behaviour  of completing the task or veer of course, etc.[5]
+
+#### Activity Diagrams
+
+Activity diagrams are diagrams used to model system behaviours, in addition to detailing the relationships between the behaviours in the overall flow of the system (that is, dynamic element interactions). Essentially the diagram maps out the possible paths that can be taken along with the relationship between said objects. In relation to  end user's the activity diagram can show the possible paths and also the choices a user may pick during playtime. [6]
+
+#### 
 
 
 #### Prisma metholodgy and test plan
+
 This section covers the audience for the project 'Prisma' along with the metholodgy set to be used for the development of multiple prototypes and the core application. Though not limited to the scope, Prismas target audience is set to extend primarly to players whom enjoy third person action games. Tutorial like elements and features will also be implemented in order to ensure ease of use for players new to the genre. 
 
 Furthermore the prototyping methodlogy that the development will be based around is Throw-away’ or ‘Rapid’. Throw-away’ or ‘Rapid’ , which pertains to developing a small part of a system, then giving it to the end user to try out and evaluate. The user provides feedback which can quickly be incorporated into the development of the main system. The prototype is then discarded or thrown away. Rapid/Throwaway prototyping essentially helps to ascertain a complete set of user requirements.
@@ -95,15 +107,19 @@ More advantages of utilising rapid prototyping relate to involving customers at 
 #### Prototyping tools
 
 #### Unreal
+
 Unreal engine is a complete suite of tools developed by Epic Games used primarily for the development of applications though can also be used for a variety of other reasons. The engine is heavily focused on design and detail with its fourth installment or update being released on September 4, 2014, although a stable release wasnt avaliable until recently on November 7, 2018. This engine allows for development without the need to code through the use of Blueprint visual scripting which is node-based enabling developers to create prototypes quickly.The benefits of Blue print visual scripting can be seen through the fact that developers can create full games using only Blueprint.Furthermore unreal is a next-gen game engine that offers advanced graphics capabilities, such as complex partition system and dynamic lighting.
 
 #### Unity
+
 Unity is a cross-platform game engine developed by Unity Technologies, used primarily to create games though can also be manipulated to create applications not related to the gaming industry.The engine supports a number of ile formats also giving access to numerous free assets through the unity asset merket place. Moreover unity also includes Graphics rendering, next-gen runtime, and artist tooling.Unity uses mostly C# or JavaScript, also providing an intuitive interface which is easy to use. Inregards to making prototypes unity has pre-built functions (plug-ins) that can be used inaddition to the assets on the unity asset store this means in theory that no coding, animating or modeling would be required to make prototypes. 
 
 #### Conclusion
+
 The engine in which will be used for creating prototypes of 'Prisma' will be Unity, this is primarily due to Unitys better and intuitive interface to follow and learn from. In addition to the learning material available in contrast to Unreals lack off tutorials and sophisticated interface and doesn’t facilitate ease of use. Although Unreal offers more in terms of cross platform compatibility and prioritises graphics due to the nature of the project, cross platform compatibility is not necessary as the application is set to run on PC. In continuation to the prior point Unreal others offers advanced graphics capabilities, such as complex partition system and dynamic lighting.In comparision Unity 5 is capable of producing graphics heavy environments, though it is also important to note unitys new iteration (2018) boasts features that rival if not eclispse Unreal in regards to graphics and lighting.Furthermore based on the familiarity with the software and ease of use unity was chosen.  
 
 ### Prisma Camera demo
+
 The following prototypes include a basic camera system,using animations to move the player in order to test how the camera functions. Although crude, the purpose of the prototypes are to merely test out the camera and how it reacts to object movement,hence why animations were used for the movement rather than a mesh of code and animations.In addition to unitys rigidbody and capsule collider in order to ensure the object does not fall through the floor and to simulate physics. Moreover as theses prototypes explore more of the functional side rather than the asthetics,the canvas consists of a basic untextured plane and a textured playermodel, excluding the need for other objects as this is merely a camera test. 
 
 ![Alt text](https://github.com/matthewsides/Prototyping/blob/master/Prismatest01.png?raw=true "Optional Title")
@@ -133,6 +149,7 @@ The temporary fix for the player models axis changing and following the camera p
 Through analysing the feedback given on this prototype it is clear to see that the fixes were a success and the prototype has built upon its previous iteration providing an improvement on the prior and more features with regards to collision. This success can particuarly be seen through Marks comments on the occolusion detection which relates to when the camera is unable to see the player,stating that it was a good use as in this prototype the camera attempts to move the camera closer to the player in order to avoid occolusion. Whilst Luke Bruni, Luke Shead and Marks comments on the camera distance from the player and object axis turning upon camera movement respectively show the improvements made upon the previous version.Although there is still an issue regarding the cameras vertical view as Joe still feels that the "camera feels a bit restricted", further stating although an improvement it could be better which can be noted as a future improvement. Essentially it is evident that the main issues, excluding the need to tweak the cameras turning circle, now stem from issues not pertaining to the camera and that it is ready to be implemented into the final application.Although further testing will still be carried out in order to ensure proper functionality and that furture features are capable of functioning with this camera system and does not cause any issues. 
 
 ### Prototype Download
+
 The final camera demo prototype could not be uploaded due to the file size, however a video can be found and downloaded in this repository showcasing the demo. The demo could also be sent via email or another site upon asking.
 
 
