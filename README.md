@@ -112,16 +112,21 @@ The following prototypes include a basic camera system,using animations to move 
 |               | Mark Biswell | Camera input felt too sensitive, while the object also moved to where the camera was pointing appearing unrealistic.|
 |               | Joe Williams | Camera felt smooth, however the 360 turning could be toned down and is slightly annoying when trying to move the player.|
 
-Through anaylising the feedback gathered it is clear that there is an issue with the player object and camera 
+Through analysing the feedback gathered it is clear that there is an issue with the player object and camera, with the camera look axis affecting the player object's axis. This is most likely caused by a fix for another issue that related to turning the player object as the camera moved, rather than just moving the camera. Moreover as noted by luke shead the camera experienced issues in regards to following the player, this issue though is more related to the animations used and can be fixed through altering the animation speed along with a change in the camera speed. Another issue that Joe williams stated is that the cameras abilty to move 360 degrees horizontal or vertical could be toned down, this can be applied in the next iteration through utilising the already in place angle clamp function, duplicating it for use on all axis. 
+
+
+As the metholodgy being used is throwaway which entails taking the good aspects of the prior prototype and then putting it into a new one throwing away previous one.This iteration is slightly different focusing on camera collision incontrast to  the previous which was about  movement and following an object. Although the code was ported over and fixes have been implemented into this prototype based on the feedback given.
+
+The temporary fix for the player models axis changing and following the camera point was to add a clamp to the Y axis temporary and as gathered from the feedback given about the second iteration it has seemed to have fixed the issue for now. Though this fix can only be short term otherwise it will impeed on the players ability to look up. The clamp for the X axis was also changed in order to facilitate the feedback gathered from Joe williams whom stated originally that "the 360 turning could be toned down", through clamping the X axis it is now easier to navigate where the user wishes the player to look and go.Moreover the sensitivity was altered using the 'input sensitivity variable' and 'camera speed' to slow down the rate in which the camera turned.
 
 | V2            |User          |Result        |
 | ------------- |------------- |------------- |
-|               | Luke Bruni   |              |
-|               | Luke Shead   |              |
-|               | Mark Biswell |              |
-|               | Joe Williams |              |
+|               | Luke Bruni   | The camera felt less sensitive in this itteration and the objects axis seemed to no longer turn when the camera turned or it was atleast less noticable.|
+|               | Luke Shead   | The camera was able to now keep up, keeping an appropriate distance between the player, zooming in if my view was impeded by obstacles.             |
+|               | Mark Biswell | Good use of occolusion detection and the object no longer looked as strange appearing at least not to change axis when moving the camera.             |
+|               | Joe Williams |                |
 
-The temporary fix for the player models axis changing and following the camera point was to add a clamp to the Y axis temporary and as gathered from the feedback given about the second iteration it has seemed to have fixed the issue for now. Though this fix can only be short term otherwise it will impeed on the players ability to look up. The clamp for the X axis was also changed in order to facilitate the feedback gathered from Joe williams whom stated originally that "the 360 turning could be toned down", through clamping the X axis it is now easier to navigate where the user wishes the player to look and go.Moreover the sensitivity was altered using the 'input sensitivity variable' and 'camera speed' to slow down the rate in which the camera turned.
+Through analysing the feedback given on this prototype it is clear to see that the fixes were a success and the prototype as built upon its previous iteration providing an improvement on the prior and more features with regards to collision. This success can particuarly be seen through Marks comments on the occolusion detection which relates to when the camera is unable to see the player,stating that it was a good use as in this prototype the camera attempts to move the camera closer to the player in order to avoid occolusion. Whilst Luke Bruni, Luke Shead and Marks comments on the camera distance form the player and object axis turning upon camera movement respectivly show the improvements made upon thew previous version.
 
 
 ### References-
