@@ -80,6 +80,9 @@ End user's can be segregated into two catagorys; Contemporary and those whom are
 
 #### Behavioural Models
 
+The Use case model is a user model ,that involves use case diagrams to depict the functionality of a system, using actors to represent a user in order to showcase user interaction and imply what different users may do when faced with a problem and given a solution.
+
+
 
 #### Prisma metholodgy and test plan
 This section covers the audience for the project 'Prisma' along with the metholodgy set to be used for the development of multiple prototypes and the core application. Though not limited to the scope, Prismas target audience is set to extend primarly to players whom enjoy third person action games. Tutorial like elements and features will also be implemented in order to ensure ease of use for players new to the genre. 
