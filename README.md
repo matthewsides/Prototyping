@@ -59,7 +59,7 @@ Operational Acceptance Testing (OAT) is a non-functional software testing method
 
 Low-fidelity prototyping[2] (wireframes are low fidelity prototypes) is a quick and easy way to translate high-level design concepts into tangible and testable artifacts.The basic characteristics of low-fidelity prototyping: Visual design, Content, Interactivity.
 
-The benefits of using low fidelity prototypes is that major problems are detected and solved in the early stage of development cycle, being easier to build and cost less than other alternatives.Whilst low fidelity prototypes are easy to iterate and also give feedback to focus on high-level concepts rather than details
+The benefits of using low fidelity prototypes is that major problems are detected and solved in the early stage of development cycle, being easier to build and cost less than other alternatives.Whilst low fidelity prototypes are easy to iterate and also give feedback to focus on high-level concepts rather than details.
 
  • Paper Based:Pen and paper a basic tool that allows quick illustration of ideas, facilitating the internal discussion between group
  members.
@@ -68,13 +68,14 @@ The benefits of using low fidelity prototypes is that major problems are detecte
  
  • Balsamiq mockups: Balsamiq is a hand-painted low-fidelity prototyping tool.The benefits of Balsamiq as a tool is evident through the fact it can be seen as a low fidelity prototype.Moreover Balsamiq includes a built-in hand-painted UI library that can be used as placeholders for the original UI.However the downside of Balsamiq is that it lacks support for basic interactions, which depending on the situation is not convenient.
  
-####  Basic Prototyping & Collaboration
-
 #### High Fidelity Tools
 
 High-fidelity prototyping[3] refers to a computer based interactive representation of a product in its closest resemblance to the final design in terms of details and functionality. High fidelity wrieframes are often drafted near the end of the design process to communicate design decisions to the development team prior to coding the final product.
 
-
+ • UXPin: UXPin is a high fidelity tool or more specifically a product design platform that allows for collaboration and the creation of designs i.e. wireframes, mockups, and prototypes. UXPin offers the same tools as MockPlus or Balsamiq, however also allowing users to record user behavior (user behaviour refers to commenting,facial reactions and clicks) and create code imitating the functionality of the final product. In addition, UXPin also provides a usability testing kit which contains templates, test reports, scripts, consent forms,etc. Whilst UXPin can also synchronise with Sketch and Photoshop files, meaning that after uploading them it is possible to change the files into interactive prototypes.
+ 
+ • Unity: A cross-platform game engine developed by Unity Technologies can also be used to create prototypes of the software, although as a game engine it is likely to be used primarly for the development of the actually application. Though the benefits of using unity for prototyping is that it can be built upon until it becomes the final product. Essentially meaning that the functionality and aesthetic could start out basic and then based on feedback gathered built upon until it resembles what the user expects, resembling or becoming the final product.
+ 
 ### Prisma 
 
 #### End User categorisation/classification
