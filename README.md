@@ -104,9 +104,10 @@ The following prototypes include a basic camera system, using animations to move
 
 | V1            |User          |Result        |
 | ------------- |------------- |------------- |
-|               |              |              |
-|               |              |              |
-
+|               | Luke Bruni   |              |
+|               | Luke Shead   |              |
+|               | Mark Biswell |              |
+|               | Joe Williams |              |
 
 ### References-
 [1] Mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
