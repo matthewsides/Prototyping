@@ -157,9 +157,10 @@ The final camera demo prototype could not be uploaded due to the file size, howe
 ### References-
 [1] Mockplus [online]. (07/25/2017). Available from: <https://www.mockplus.com/blog/post/prototyping-design-low-fidelity-prototype-is-everything>. [Accessed 03/12/2018].
 
-[2] Nick Babich (11-29-2017). theblog.adobe [online]. Available from: <https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/>. [Accessed 03/12/2018].
+Babich. Nick, (2017). The blog.adobe. Available from: https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/ [Accessed 03/12/2018].
 
 [3] Eleonora Ibragimova (28/12/16). blog.prototypr.io [online]. Available from: <https://blog.prototypr.io/high-fidelity-prototyping-what-when-why-and-how-f5bbde6a7fd4>. [Accessed 03/12/2018].
 
-[4] EMILY GRACE ADISESHIAH (22/12/17). justinmind [online]. Available from: <https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/>. [Accessed 03/12/2018].
+[4]  ADISESHIAH, EMILY GRACE. (22/12/17). justinmind [online]. Available from: https://www.justinmind.com/blog/low-fidelity-vs-high-fidelity-wireframing-is-paper-dead/. [Accessed 03/12/2018].
 
+Trulock, Vivenne. (2005-2008). Understanding HCI. Available from: http://hci.ilikecake.ie/des_userclassification.htm [Accessed: 04/12/2018]
